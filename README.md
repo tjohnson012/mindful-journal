@@ -1,6 +1,6 @@
 # Mindful Journal 🧘‍♂️
 
-Mindful Journal is a sentiment-aware journaling project that reads daily reflections and provides mood insights over time. Originally structured as a data + scripting toolkit, this version was customized by **Tyler Johnson** for the **MLH Fellowship 2025**.
+Mindful Journal is a sentiment-aware journaling project that reads daily reflections and provides mood insights over time.
 
 ## ✨ Features
 
@@ -8,7 +8,7 @@ Mindful Journal is a sentiment-aware journaling project that reads daily reflect
 - Sentiment analysis of journal entries
 - Preprocessing pipeline for visualization
 - Modular Python scripts
-- Cleaned and MLH-ready
+- Cleaned
 
 ## 📁 Project Structure
 
