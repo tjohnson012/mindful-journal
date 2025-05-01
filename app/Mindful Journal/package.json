@@ -1,0 +1,27 @@
+{
+  "name": "mindful-journal",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A clean journaling app to track mental wellness.",
+  "Author": "Tyler Johnson",
+  "scripts": {
+    "fastapi-dev": "pip install -r requirements.txt  --user && python -m uvicorn api.index:app --reload",
+    "next-dev": "next dev",
+    "dev": "concurrently \"npm run next-dev\" \"npm run fastapi-dev\"",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "autoprefixer": "10.4.14",
+    "concurrently": "^8.0.1",
+    "eslint": "8.43.0",
+    "eslint-config-next": "13.4.6",
+    "next": "^13.4.6",
+    "postcss": "8.4.24",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.0",
+    "tailwindcss": "3.3.2"
+  }
+}
