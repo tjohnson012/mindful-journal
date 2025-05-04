@@ -27,4 +27,4 @@ Mindful Journal is a sentiment-aware journaling project that reads daily reflect
 ## 📢 Author
 
 Tyler Johnson  
-MLH Fellowship 2025 Applicant  
+
