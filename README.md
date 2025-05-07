@@ -26,5 +26,8 @@ Mindful Journal is a sentiment-aware journaling project that reads daily reflect
 
 ## 📢 Author
 
-Tyler Johnson  
+Tyler Johnson
+
+## ✨ Purpose
+This project was made during a hackathon simply to learn the technologies and provide a wellness journal for the author. It was later improvised with better code and more functionality to better suit the original vision of the project.
 
